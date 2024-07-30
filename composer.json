@@ -1,0 +1,15 @@
+{
+    "name": "rafael/php-to-laravel",
+    "require-dev": {
+        "symfony/var-dumper": "^6.4"
+    },
+    "authors": [
+        {
+            "name": "Rafael Holanda do Amaral",
+            "email": "rafael_holandamaral@hotmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
